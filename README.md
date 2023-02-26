@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **patu.chavan2000@gmail.com**
 
-- 📄 Have a look at my resume <a href="[https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/1DrEJJbzmkqSN8v8rnkaoG3EkAKpD8B_k/view?usp=share_link)">Resume<a/>
+- 📄 Have a look at my resume <a href="https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/1DrEJJbzmkqSN8v8rnkaoG3EkAKpD8B_k/view?usp=share_link)">Resume<a/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
