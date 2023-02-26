@@ -1,4 +1,3 @@
-### Hi there 👋
 <img alt="Coding" width="1200px" height="300px" src="https://tse3.mm.bing.net/th?id=OIP.8lYmtyFVLAsQ0VbWZRKnRwHaEK&pid=Api&P=0"/>
 <h1 align="center">Hi 👋, I'm Prathamesh Chavan</h1>
 <h3 align="center">A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications.Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h3>
