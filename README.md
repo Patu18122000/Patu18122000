@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Advanced Java**
 
-- 👨‍💻 <a href="https://patu18122000.github.io/" >Porfolio<a/>
+- 👨‍💻 [Portfolio](https://psudhansu.github.io/)
 - 👨‍💻 All of my projects are available at <a href="https://patu18122000.github.io/">Portfolio<a/>
 
 - 📝 Connect with me on <a href="https://www.linkedin.com/in/prathamesh-chavan-48871b167/">Portfolio<a/>
