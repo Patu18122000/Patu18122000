@@ -11,8 +11,9 @@
 - 🌱 I’m currently learning **Advanced Java**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://patu18122000.github.io/)
+- 👨‍💻 All of my projects are available at <a href="https://patu18122000.github.io/">Linkdin<a/>
 
-- 📝 Connect with me on <a href="https://www.linkedin.com/in/prathamesh-chavan-48871b167/">Linkdin<a/>
+- 📝 Connect with me on <a href="https://www.linkedin.com/in/prathamesh-chavan-48871b167/">Portfolio<a/>
 
 - 📫 How to reach me **patu.chavan2000@gmail.com**
 
