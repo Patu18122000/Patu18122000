@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Advanced Java**
 
-- 📝 Connect with me on <a href="https://www.linkedin.com/in/prathamesh-chavan-48871b167/">Linkedin<a/>
-
 - 📫 How to reach me **patu.chavan2000@gmail.com**
 
-- 📄 Have a look at my resume <a href="https://drive.google.com/file/d/1DrEJJbzmkqSN8v8rnkaoG3EkAKpD8B_k/view?usp=share_link">Resume<a/>
+- 👨‍💻 All of my projects are available at [https://patu18122000.github.io/](https://patu18122000.github.io/)  
+  
+- 📝 Connect with me on <a href="https://www.linkedin.com/in/prathamesh-chavan-48871b167/">Linkedin<a/>
 
-- 👨‍💻 All of my projects are available at <a href="https://patu18122000.github.io/">Portfolio<a/>
+- 📄 Have a look at my resume <a href="https://drive.google.com/file/d/1DrEJJbzmkqSN8v8rnkaoG3EkAKpD8B_k/view?usp=share_link">Resume<a/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
