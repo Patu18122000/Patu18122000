@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Advanced Java**
 
-- 📝 Connect with me on <a href="https://www.linkedin.com/in/prathamesh-chavan-48871b167/">Portfolio<a/>
+- 📝 Connect with me on <a href="https://www.linkedin.com/in/prathamesh-chavan-48871b167/">Linkedin<a/>
 
 - 📫 How to reach me **patu.chavan2000@gmail.com**
 
