@@ -1,32 +1,104 @@
+# patu18122000.github.io
 <img alt="Coding" width="1200px" height="300px" src="https://tse3.mm.bing.net/th?id=OIP.8lYmtyFVLAsQ0VbWZRKnRwHaEK&pid=Api&P=0"/>
-<h1 align="center">Hi 👋, I'm Prathamesh Chavan</h1>
-<h3 align="center">A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications.Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patu18122000&label=Profile%20views&color=0e75b6&style=flat" alt="patu18122000" /> </p>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patu18122000" alt="patu18122000" /></a> </p>
-
-- 🔭 I’m currently working on **Java Back-end Developement**
-
-- 🌱 I’m currently learning **Advanced Java**
-
-- 📫 How to reach me **patu.chavan2000@gmail.com**
-
-- 👨‍💻 All of my projects are available at [https://patu18122000.github.io/](https://patu18122000.github.io/)  
-  
-- 📝 Connect with me on <a href="https://www.linkedin.com/in/prathamesh-chavan-48871b167/">Linkedin<a/>
-
-- 📄 Have a look at my resume <a href="https://drive.google.com/file/d/1DrEJJbzmkqSN8v8rnkaoG3EkAKpD8B_k/view?usp=share_link">Resume<a/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=🙏🙏 नमस्ते! ; I am Prathamesh%20Chavan; I am a Full-stack%20web%20developer 👨🏻‍💻;  Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patu18122000&show_icons=true&locale=en&layout=compact" alt="patu18122000" /></p>
+## Hi 👋 I'm [Prathamesh Chavan](https://github.com/Patu18122000)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patu18122000&show_icons=true&locale=en" alt="patu18122000" /></p>
+- I'm a **Learner** | **Web Developer** | **Programmer**.
+- I'm skilled at **MERN** based web app development, alongside upskilling my **data structure and algorithms** knowledge.
+- Highly passionate about **building web applications**.
+- Interested in **exploring new technologies** with curious mind.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patu18122000&" alt="patu18122000" /></p>
+
+
+
+
+<br />
+
+<a href="https://www.linkedin.com/in/prathamesh-chavan-48871b167/">
+  <img align="left" alt="Prathamesh's LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
+</a>
+
+<br />
+
+- 👨‍💻 Checkout my Resume,  [Resume](https://drive.google.com/file/d/1DrEJJbzmkqSN8v8rnkaoG3EkAKpD8B_k/view?usp=share_link)
+- 💼 any freelance work? do reach, [email](mailto:patu.chavan2000@gmail.com) :)
+- 💬 ask me about web development, I would love to help ;)
+- 👨‍💻 Checkout my Portfolio [Portfolio](https://patu18122000.github.io/)
+
+<br>
+
+## :hammer_and_wrench: Skills / Interests
+
+### 🚀 Languages
+![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+### 🧩 Libraries & Framework
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%23606595.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![ORM](https://img.shields.io/badge/ORM-%23323330.svg?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+### 🧑🏻‍💻 Tools & Platform
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Spring Tool Suite](https://img.shields.io/badge/Spring_Tool_Suite-%236DB33F.svg?style=for-the-badge)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+
+<br />
+
+## :bar_chart: Github Stats
+
+<br />
+
+### 📈 Stats
+
+<p>
+  <img  alt="Prathamesh Chavan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Patu18122000&theme=radical&langs_count=8" />
+<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AshokPrjapat&theme=radical&langs_count=8" /> -->
+</p>
+
+
+
+
+### 🔝 Most used languages
+<img
+  alt="Prathamesh Chavan's Top Languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patu18122000&theme=radical&langs_count=8"
+  height="207px"
+/>
+
+
+
+
+## :earth_asia: Connect with me...
+
+<p>
+  <a href="https://www.linkedin.com/in/prathamesh-chavan-48871b167/">
+    <img
+      src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+  <a href="mailto:patu.chavan2000@gmail.com">
+    <img
+      src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
+  <a href="https://Patu18122000.github.io/">
+    <img
+      src="https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=white"
+    />
+  </a>
+</p>
