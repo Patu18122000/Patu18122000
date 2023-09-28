@@ -10,7 +10,7 @@
 ## Hi 👋 I'm [Prathamesh Chavan](https://github.com/Patu18122000)
 
 - I'm a **Learner** | **Web Developer** | **Programmer**.
-- I'm skilled at **MERN** based web app development, alongside upskilling my **data structure and algorithms** knowledge.
+- I'm skilled at **Java** based web app development, alongside upskilling my **data structure and algorithms** knowledge.
 - Highly passionate about **building web applications**.
 - Interested in **exploring new technologies** with curious mind.
 
