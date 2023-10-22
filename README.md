@@ -1,5 +1,5 @@
 # patu18122000.github.io
-<img alt="Coding" width="1200px" height="301px" src="https://tse3.mm.bing.net/th?id=OIP.8lYmtyFVLAsQ0VbWZRKnRwHaEK&pid=Api&P=0"/>
+<img alt="Coding" width="1200px" height="300px" src="https://tse3.mm.bing.net/th?id=OIP.8lYmtyFVLAsQ0VbWZRKnRwHaEK&pid=Api&P=0"/>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
